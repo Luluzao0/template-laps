@@ -20,7 +20,7 @@ Bem-vindo ao repositório do LAPS! Este projeto utiliza HTML e o Live Server par
 4. Navegue até o diretório do projeto:
 
     ```bash
-    cd LAPS
+    cd template-laps
     ```
 
 5. Inicie o Live Server:
